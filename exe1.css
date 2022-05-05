@@ -278,7 +278,7 @@ hr.dotted1{
     top: -650px;
     width: 100%;
     height:100%;
-    background-color: aquamarine;
+    background-color: white;
 }
 
 .dashed_1{
@@ -295,7 +295,7 @@ hr.dotted1{
     top: -10px;
     width: 100%;
     height:5%;
-    background-color: olive;
+    background-color: white;
 }
 
 .column_1{
@@ -304,7 +304,7 @@ hr.dotted1{
     right: -5%;
     width: 20%;
     height:500px;
-    background-color: orange;
+    background-color: white;
 }
 
 .column_2{
@@ -313,7 +313,7 @@ hr.dotted1{
     right: -27%;
     width: 20%;
     height:500px;
-    background-color: orchid;
+    background-color: white;
 }
 
 .column_3{
@@ -322,7 +322,7 @@ hr.dotted1{
     right: -50%;
     width: 20%;
     height:500px;
-    background-color: palevioletred;
+    background-color: white;
 }
 
 .column_4{
@@ -331,5 +331,23 @@ hr.dotted1{
     right: -73%;
     width: 20%;
     height:500px;
-    background-color: orangered;
+    background-color: white;
+}
+
+.below{
+    position: relative;
+    top: -1600px;
+    right: -3%;
+    width: 100%;
+    height:30px;
+    background-color: white;
+}
+
+.below_1{
+    position: relative;
+    top: -1590px;
+    right: -3%;
+    width: 100%;
+    height:30px;
+    background-color: white;
 }
