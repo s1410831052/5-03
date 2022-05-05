@@ -269,21 +269,67 @@ hr.dotted1{
 
 .page{
     position: relative;
-    top: -460px;
+    top: -440px;
     right: -130%;
 }
 
 .container_below{
     position: relative;
-    top: -700px;
+    top: -650px;
     width: 100%;
-    height:45%;
-    background-color: white;
+    height:100%;
+    background-color: aquamarine;
 }
 
 .dashed_1{
     border-top: dashed 1px gray;
     height: 3px;
-    width: 100%;
+    width: 195%;
+    left: -180%;
+    justify-content: flex-start;
+    position: relative;
 }
 
+.module{
+    position: relative;
+    top: -10px;
+    width: 100%;
+    height:5%;
+    background-color: olive;
+}
+
+.column_1{
+    position: relative;
+    top: 90%;
+    right: -5%;
+    width: 20%;
+    height:500px;
+    background-color: orange;
+}
+
+.column_2{
+    position: relative;
+    top: -476px;
+    right: -27%;
+    width: 20%;
+    height:500px;
+    background-color: orchid;
+}
+
+.column_3{
+    position: relative;
+    top: -976px;
+    right: -50%;
+    width: 20%;
+    height:500px;
+    background-color: palevioletred;
+}
+
+.column_4{
+    position: relative;
+    top: -1476px;
+    right: -73%;
+    width: 20%;
+    height:500px;
+    background-color: orangered;
+}
